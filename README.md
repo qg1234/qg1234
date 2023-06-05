@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @qg1234
-- 👀 I’m interested in new thing 
-- 🌱 I’m currently learning openvino
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+最简单的微信小程序和flask服务器后台通讯程序，hello world
 
 <!---
 qg1234/qg1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
